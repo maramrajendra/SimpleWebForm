@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-<!-- Updating the Pom.xml in Master branch -->
-<!-- This is second commit by Dev2 -->
-<!-- This comment is added as part of Dev2 branch1 -->
-<!-- This comment is added as part of Dev2 branch1 -->
-<!-- This comment is added by Dev2 for the first time -->
-<!-- 1. adding this row by Developer 1 -->
 >>>>>>> b91ebc1b0cc26a724213e561bf684d24eb091d65
+<!-- Branch2 , Dev1 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
